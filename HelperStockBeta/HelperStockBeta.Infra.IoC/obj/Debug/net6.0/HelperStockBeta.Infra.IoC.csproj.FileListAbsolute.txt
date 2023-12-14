@@ -19,3 +19,24 @@ C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\ref\HelperStockBeta.Infra.IoC.dll
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.runtimeconfig.json
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.genruntimeconfig.cache
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.deps.json
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.runtimeconfig.json
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.dll
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.IoC.pdb
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Application.dll
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Domain.dll
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.Data.dll
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Application.pdb
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Domain.pdb
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\bin\Debug\net6.0\HelperStockBeta.Infra.Data.pdb
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.csproj.AssemblyReference.cache
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.AssemblyInfoInputs.cache
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.AssemblyInfo.cs
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.csproj.CopyComplete
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.dll
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\refint\HelperStockBeta.Infra.IoC.dll
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.pdb
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\HelperStockBeta.Infra.IoC.genruntimeconfig.cache
+C:\Nova pasta\projetoBase\HelperStockBeta\HelperStockBeta.Infra.IoC\obj\Debug\net6.0\ref\HelperStockBeta.Infra.IoC.dll
